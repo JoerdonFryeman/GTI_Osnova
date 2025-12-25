@@ -1,2 +1,3 @@
-# GTI_Osnova
-Генеративная языковая модель
+## Генеративный текстовый интеллект: Основа (ГТИ: Основа)
+
+Generative Text Intelligence: Osnova (GTI: Osnova)
